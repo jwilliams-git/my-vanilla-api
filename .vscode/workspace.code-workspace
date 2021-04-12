@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\my-first-static-web-app"
+		},
+		{
+			"name": "my-vanilla-api",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen",
+		"liveServer.settings.multiRootWorkspaceName": "my-vanilla-api"
+	}
+}
